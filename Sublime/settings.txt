@@ -1,0 +1,13 @@
+<------安装设置Anaconda-------------------------------------->
+1. cmd+shift+P  + Install Package
+2. Anaconda
+3. 设置 User
+	{
+	"python_interpreter":"C:/Users/Wang/AppData/Local/Programs/Python/Python36-32/python.exe",
+	"suppress_word_completions":true,
+	"suppress_explicit_completions":true,
+	"complete_parameters":false,
+	"anaconda_linting": false,
+	"auto_complete_triggers": 
+    [{"selector": "source.python - string - comment - constant.numeric", "characters": "."}]
+}
